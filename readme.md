@@ -1,2 +1,2 @@
--master
+-mas
 -feature-D
